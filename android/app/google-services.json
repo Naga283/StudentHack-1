@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "18549493720",
+    "firebase_url": "https://hackthon-7efca-default-rtdb.firebaseio.com",
+    "project_id": "hackthon-7efca",
+    "storage_bucket": "hackthon-7efca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18549493720:android:b3f89cccdbb74f74852cad",
+        "android_client_info": {
+          "package_name": "com.crowd.hackthon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18549493720-3pri9n21bk8rg6u3epta14jod80po3oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPL-Js_yfgGiZtHvSv9WoMqGa5jqjXdIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18549493720-3pri9n21bk8rg6u3epta14jod80po3oj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18549493720:android:5d0f4208990901e3852cad",
+        "android_client_info": {
+          "package_name": "com.example.hakcthon2user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18549493720-3pri9n21bk8rg6u3epta14jod80po3oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPL-Js_yfgGiZtHvSv9WoMqGa5jqjXdIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18549493720-3pri9n21bk8rg6u3epta14jod80po3oj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
