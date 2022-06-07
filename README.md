@@ -2,11 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+It was developed by me in hackethon .It is one of the application in SIH.And the main purpose of this application is when the student login into this application they can read questions from study material and they can write mocks exams when entering their Unique Id.Users also see their results in application
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
